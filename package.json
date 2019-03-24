@@ -1,0 +1,18 @@
+{
+	"name": "demo-coffee-bot",
+	"version": "1.0.0",
+	"description": "Demo Coffee MSBF Bot for UST Talk",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app.js"
+	},
+	"author": "patrick@chatbot.ph",
+	"license": "ISC",
+	"dependencies": {
+		"apiai": "^4.0.3",
+		"botbuilder": "^3.13.1",
+		"restify": "^8.2.0",
+		"uuid": "^3.3.2"
+	}
+}
